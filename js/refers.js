@@ -1,5 +1,5 @@
 window.addEventListener('load', function() {
-  var a_href = 'https://20media.world/br/registration/pop?bonusType=sport';
+  var a_href = 'https://promo.20bet.partners/redirect.aspx?pid=202274&bid=1971&lpid=496';
   var tc_className = 'general__link'
   var tc_href = 'https://20media.world/br/information/bonus-terms';
   var idRefer = $_GET('refer');
